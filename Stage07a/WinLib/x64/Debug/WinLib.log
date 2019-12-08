@@ -1,0 +1,12 @@
+﻿  Button.cpp
+  frame.cpp
+C:\Users\kminh\Desktop\Stage07a\WinLib\frame.cpp(94,48): warning C4302: '형식 캐스트': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
+  group.cpp
+  misc.cpp
+  Shape.cpp
+  Shapestuff.cpp
+  ToolBar.cpp
+  코드를 생성하고 있습니다...
+C:\Users\kminh\Desktop\Stage07a\WinLib\frame.cpp(119,6): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+C:\Users\kminh\Desktop\Stage07a\WinLib\Button.cpp(31): warning C4715: 'Button::processMessage': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  WinLib.vcxproj -> C:\Users\kminh\Desktop\Stage07a\x64\Debug\WinLib.lib
